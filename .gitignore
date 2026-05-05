@@ -4,8 +4,6 @@ dist/
 **/_tree-sitter/
 *.log
 .DS_Store
-.env
-.env.local
 *.tmp
 *.temp
 .install-version
@@ -49,3 +47,4 @@ logs/run_evaluation/
 .docker-blowout-data/
 .scratch/
 docker/install-test/
+config.bat
